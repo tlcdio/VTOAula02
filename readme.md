@@ -1,4 +1,3 @@
+# Exercício Aula 2: Tipos de dado
 
-# Exercício Aula 2 - Variáveis, Tipos de dados e Operadores aritméticos 
-
-Olá! Neste exercício estão codificados os exemplos da Aula 2 além de algumas explicações a mais.
+Olá! Neste exercício estão codificados os exemplos da Aula 2 do curso de Variáveis, Tipos de dados e Operadores aritméticos. Além disso também possui algumas explicações a mais.
